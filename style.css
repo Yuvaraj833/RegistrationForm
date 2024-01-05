@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,200;1,300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.headtitle{
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 50px;
+    font-style: italic;
+    /* border: 1px solid black; */
+}
+.traditional{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+.traditional1{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+}
+.butterimage{
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+.shopdetails{
+    background-size: 100%;
+    height: 450px;
+    background-color: pink;
+}
+.contactnum{
+    text-align: center;
+    padding-top: 70px;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.address{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: lighter;
+    font-size: 50px;
+
+}
+.timings{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+.rounded-circle{
+    padding-top: 30px;
+}
+.circletitle{
+    margin-top: 90px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.bowldish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.bowlprice{
+    font-weight: bold;
+    color: pink;
+}
+.burritoprice{
+    font-weight:bold ;
+    color: pink;
+}
+.burrito{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.eggdish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.eggprice{
+    font-weight:bold ;
+    color: pink;
+}
+.avacadoprice{
+    font-weight:bold ;
+    color: pink;
+}
+.avacadodish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.aboutlunch{
+    background-color: pink;
+    container: fluid;
+}
+.lunchtitle{
+    margin-top: 90px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.lunchimg{
+    padding-left: 60px;
+}
+.aboutbutter{
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: pink;
+    width: 100%;
+}
+.butterdish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.butterprice{
+    font-weight:bold;
+    color: black;
+}
+.aboutcaprese{
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: pink;
+    width: 100%;
+}
+.capresedish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.capreseprice{
+    font-weight:bold;
+    color: black;
+}
+.aboutspicy{
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: pink;
+    width: 100%;
+}
+.spicydish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.spicyprice{
+    font-weight:bold;
+    color: black;
+}
+.abouthouse{
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: pink;
+    width: 100%;
+}
+.housedish{
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.houseprice{
+    font-weight:bold;
+    color: black;
+}
+.welcome{
+    background-color: pink;
+}
+.headwel{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.dwelling{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.article{
+    text-align: center;
+}
+.custom-btn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    height: 80px;
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .custom-btn:hover {
+    background-color: #2980b9;
+  }
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+  }
+  .contactimge{
+    text-align: center;
+  }
+  .contactd{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 50px;
+  }
+  .constat{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .opentime{
+    margin-top: 20px;
+  }
+  .hoteladd{
+    margin-top: 20px;
+  }
+  .phonenumber{
+    margin-top: 20px;
+  }
+  
